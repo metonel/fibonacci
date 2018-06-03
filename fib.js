@@ -1,7 +1,7 @@
 function fib(n) {
-    var a = 1;
-    var b = 2;
-    var t=false;
+    const a = 1;
+    const b = 2;
+    const t=false;
     if ((n==1)||(n==2)){
         t=true;
     } else{
